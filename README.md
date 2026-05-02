@@ -1,4 +1,4 @@
-##🚀 Generative AI Fundamentals - Part 1
+## 🚀 Generative AI Fundamentals - Part 1
 
 Welcome to my **Generative AI Fundamentals** repository! This is a foundational project where I explored the core concepts of Generative AI by integrating and interacting with various top-tier Large Language Models (LLMs) via the LangChain framework.
 
