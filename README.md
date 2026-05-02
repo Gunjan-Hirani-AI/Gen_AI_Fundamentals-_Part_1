@@ -46,7 +46,7 @@ To document my journey, I also built a **custom frontend dashboard** (using Next
 
 *To get the best idea of how this project works and to see the frontend dashboard and CLI apps in action, please check out the video demonstration below:*
 
-** 👉watch the Video Demonstration : https://www.loom.com/share/0f9016fa99d840eb9eb0f82003586ad8** 
+👉watch the Video Demonstration : https://www.loom.com/share/0f9016fa99d840eb9eb0f82003586ad8** 
 
 ---
 *Built by Gunjan Hirani with a drive to master Generative AI.*
