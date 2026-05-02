@@ -1,5 +1,4 @@
 # 🚀 Generative AI Fundamentals - Part 1
-
 Welcome to my **Generative AI Fundamentals** repository! This is a foundational project where I explored the core concepts of Generative AI by integrating and interacting with various top-tier Large Language Models (LLMs) via the LangChain framework.
 
 This project served as my stepping stone into the world of GenAI, giving me the hands-on experience needed to build a strong foundation and the confidence to develop complex AI applications.
@@ -46,7 +45,7 @@ To document my journey, I also built a **custom frontend dashboard** (using Next
 
 *To get the best idea of how this project works and to see the frontend dashboard and CLI apps in action, please check out the video demonstration below:*
 
-**[👉 Click here to watch the Video Demonstration]((Insert your video link here))** 
+**[👉 Click here to watch the Video Demonstration]((https://www.loom.com/share/0f9016fa99d840eb9eb0f82003586ad8))** 
 
 ---
 *Built by Gunjan Hirani with a drive to master Generative AI.*
